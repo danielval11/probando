@@ -1,0 +1,70 @@
+.count {
+    padding: auto;
+    font-size: 28px;
+    float: right;
+    margin-right: 70%;
+    /display: inline-block;/
+
+
+}
+* {
+    font-size: 20px;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif
+}
+
+li {
+    list-style: none;   
+}
+.Sub {
+    margin: 50px;
+    width: 80%;
+    height: 100%;
+    float: right;
+    top: 0;
+}
+img {
+    font-size: 3;
+    width: 150px;
+    display: inline;
+}
+
+ul, li {
+    font-display: inline-block;
+}
+.form{
+    margin: 0;
+    border-radius: 1px;
+    border: 1px solid black;
+    display: inline-block;
+    width: 243px;
+    box-shadow: 5px 8px 9px grey;
+}
+.diamond { 
+    font-size: 20px;
+    float:right;
+    margin-top: 10px;
+    margin-right: 41%;
+    border-radius: 4px;
+    border: 1px solid black;
+    width: 500px;
+    box-shadow: 5px 7px 15px gray;
+    
+    
+}
+p {
+    font-size: 23px;
+    font-family:Arial, Helvetica, sans-serif
+   /* display: inline-block;*/
+    
+}
+.money{
+    display: inline-block;
+    width: 90px;
+}
+h2 {
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3 {
+    font: size 15px;
+}
